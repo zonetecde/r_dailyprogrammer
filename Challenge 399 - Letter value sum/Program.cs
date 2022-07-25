@@ -107,6 +107,8 @@ namespace Challenge_399___Letter_value_sum
 
             Console.WriteLine("{ " + String.Join(", ", q6_Answers.OrderByDescending(x => x.Count).ToList()[0].ToArray()) + " }");
 
+            Console.ReadKey();
+
             int LetterSum(string str)
             {
                 int sum = 0;
