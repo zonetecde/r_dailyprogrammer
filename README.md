@@ -3,6 +3,11 @@ Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailypr
 
 Challenge 398 - OUTPUT
 
+```diff
+5x5 matrix min sum :
+123456789 + 663035648 + 163882767 + 52838563 + 96549194 = 1099762961
+```
+
 Challenge 399 - OUTPUT
 
 ```diff
