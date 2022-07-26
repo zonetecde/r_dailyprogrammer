@@ -115,6 +115,7 @@ namespace Challenge_399___Letter_value_sum
                 str.ToList().ForEach(x => { sum += alphabet.IndexOf(x) + 1; });
                 return sum;
             }
+
         }
 
         internal class LetterSumWords
