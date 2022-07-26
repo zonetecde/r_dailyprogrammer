@@ -1,6 +1,17 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge 397 - OUTPUT
+
+```diff
+I - I = False
+I - II = True
+II - I = False
+V - IIII = False
+MDCLXV - MDCLXVI = True
+MM - MDCCCCLXXXXVIIII = False
+```
+
 Challenge 398 - OUTPUT
 
 ```diff
