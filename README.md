@@ -1,6 +1,20 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge 595 - OUTPUT
+
+```diff
+
+[]
+[]
+[5]
+[5,4]
+[2,1,3]
+[2,1,3]
+[2,1,3]
+[1,1,1,1,1,1,1,1]
+```
+
 Challenge 397 - OUTPUT
 
 ```diff
