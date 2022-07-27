@@ -26,14 +26,14 @@ MDCLXV - MDCLXVI = True
 MM - MDCCCCLXXXXVIIII = False
 ```
 
-Challenge 398 - OUTPUT
+Challenge [398](https://www.reddit.com/r/dailyprogrammer/comments/oirb5v/20210712_challenge_398_difficult_matrix_sum/) - OUTPUT
 
 ```diff
 5x5 matrix min sum :
 123456789 + 663035648 + 163882767 + 52838563 + 96549194 = 1099762961
 ```
 
-Challenge [397](https://www.reddit.com/r/dailyprogrammer/comments/onfehl/20210719_challenge_399_easy_letter_value_sum/) - OUTPUT
+Challenge [399](https://www.reddit.com/r/dailyprogrammer/comments/onfehl/20210719_challenge_399_easy_letter_value_sum/) - OUTPUT
 
 ```diff
 Assign every lowercase letter a value, from 1 for a to 26 for z. Given a string of lowercase letters, find the sum of the values of the letters in the string.
