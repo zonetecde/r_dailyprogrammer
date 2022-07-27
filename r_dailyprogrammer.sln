@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 398 - Matrix Sum"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 397 - Roman numeral comparison", "Challenge 397 - Roman numeral comparison\Challenge 397 - Roman numeral comparison.csproj", "{768D13FC-AFC6-4D1E-9184-CCF1518B4C99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 395 - Nonogram row", "Challenge 395 - Nonogram row\Challenge 395 - Nonogram row.csproj", "{490880A3-C4EF-4CD0-91C9-087082EC3D47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{768D13FC-AFC6-4D1E-9184-CCF1518B4C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{768D13FC-AFC6-4D1E-9184-CCF1518B4C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{768D13FC-AFC6-4D1E-9184-CCF1518B4C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490880A3-C4EF-4CD0-91C9-087082EC3D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490880A3-C4EF-4CD0-91C9-087082EC3D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490880A3-C4EF-4CD0-91C9-087082EC3D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490880A3-C4EF-4CD0-91C9-087082EC3D47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
