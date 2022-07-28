@@ -1,6 +1,18 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [393]( https://www.reddit.com/r/dailyprogrammer/comments/nucsik/20210607_challenge_393_easy_making_change/) - OUTPUT
+
+```diff
+
+0 = 0
+12 = 3
+468 = 11
+123456 = 254
+
+```
+
+
 Challenge [395](https://www.reddit.com/r/dailyprogrammer/comments/o4uyzl/20210621_challenge_395_easy_nonogram_row/) - OUTPUT
 
 ```diff
