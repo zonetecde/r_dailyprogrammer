@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 395 - Nonogram ro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 393 - Making change", "Challenge 393 - Making change\Challenge 393 - Making change.csproj", "{F1E5BBE7-B4EE-483E-A05D-9A34C49EB901}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 391 - The ABACABA sequence", "Challenge 391 - The ABACABA sequence\Challenge 391 - The ABACABA sequence.csproj", "{AD05FF11-6255-4E75-8602-3BE92A5A3955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F1E5BBE7-B4EE-483E-A05D-9A34C49EB901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1E5BBE7-B4EE-483E-A05D-9A34C49EB901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1E5BBE7-B4EE-483E-A05D-9A34C49EB901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD05FF11-6255-4E75-8602-3BE92A5A3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD05FF11-6255-4E75-8602-3BE92A5A3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD05FF11-6255-4E75-8602-3BE92A5A3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD05FF11-6255-4E75-8602-3BE92A5A3955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
