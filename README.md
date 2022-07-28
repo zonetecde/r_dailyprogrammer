@@ -1,6 +1,13 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [391](https://www.reddit.com/r/dailyprogrammer/comments/njxq95/20210524_challenge_391_easy_the_abacaba_sequence/) - OUTPUT
+
+```diff
+Taille : 64M
+https://github.com/zonetecde/r_dailyprogrammer/blob/master/Challenge%20391%20-%20The%20ABACABA%20sequence/output.txt
+```
+
 Challenge [392](https://www.reddit.com/r/dailyprogrammer/comments/np3sio/20210531_challenge_392_intermediate_pancake_sort/) - RELEASE
 
 ```diff
