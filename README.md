@@ -1,6 +1,11 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [392](https://www.reddit.com/r/dailyprogrammer/comments/np3sio/20210531_challenge_392_intermediate_pancake_sort/)
+
+Lien vers logiciel :
+https://github.com/zonetecde/Le-Crepier-psychorigide
+
 Challenge [393]( https://www.reddit.com/r/dailyprogrammer/comments/nucsik/20210607_challenge_393_easy_making_change/) - OUTPUT
 
 ```diff
