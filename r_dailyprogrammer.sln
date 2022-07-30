@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 387 - Caesar ciph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 386 - Partition counts", "Challenge 386 - Partition counts\Challenge 386 - Partition counts.csproj", "{1C516634-1C9A-4522-8D74-BA8D068BA939}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 383 - Necklace matching", "Challenge 383 - Necklace matching\Challenge 383 - Necklace matching.csproj", "{EA355C18-2369-4C32-BBF9-71426206B546}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{1C516634-1C9A-4522-8D74-BA8D068BA939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C516634-1C9A-4522-8D74-BA8D068BA939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C516634-1C9A-4522-8D74-BA8D068BA939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA355C18-2369-4C32-BBF9-71426206B546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA355C18-2369-4C32-BBF9-71426206B546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA355C18-2369-4C32-BBF9-71426206B546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA355C18-2369-4C32-BBF9-71426206B546}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
