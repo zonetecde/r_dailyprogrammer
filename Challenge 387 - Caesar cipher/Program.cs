@@ -44,7 +44,7 @@ namespace Challenge_387___Caesar_cipher
 
         private static string findKeyAndDecrypt(string text)
         {
-            double[] scores = new double[27];
+            double[] scores = new double[27]; 
 
             for (int i = 0; i <= 26; i++) // teste de toute les clés possible
             {
