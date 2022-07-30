@@ -1,6 +1,35 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [387](https://www.reddit.com/r/dailyprogrammer/comments/myx3wn/20210426_challenge_387_easy_caesar_cipher/) - OUTPUT
+
+```diff
+Warmup :
+a
+b
+f
+a
+s
+a
+m
+
+Challenge :
+b
+bcda
+vex
+layout
+jgorevxumxgsskx
+dailyprogrammer
+
+Bonus :
+Jgore Vxumxgsskx!
+
+Bonus 2 :
+She turned me into a newt.
+Come no further, for death awaits you all with nasty, big, pointy teeth.
+In order to maintain air-speed velocity, a swallow needs to beat its wings forty-three times every second, right?
+```
+
 Challenge [388](https://www.reddit.com/r/dailyprogrammer/comments/n3var6/20210503_challenge_388_intermediate_next/) - OUTPUT
 
 ```diff
