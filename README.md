@@ -1,6 +1,14 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [388](https://www.reddit.com/r/dailyprogrammer/comments/n3var6/20210503_challenge_388_intermediate_next/) - OUTPUT
+
+```diff
+808 : 818
+999 : 1001
+2133 : 2222
+```
+
 Challenge [389](https://www.reddit.com/r/dailyprogrammer/comments/n94io8/20210510_challenge_389_easy_the_monty_hall_problem/) - OUTPUT
 
 ```diff
