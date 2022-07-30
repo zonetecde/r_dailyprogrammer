@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 389 - The Monty H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 388 - Next palindrome", "Challenge 388 - Next palindrome\Challenge 388 - Next palindrome.csproj", "{C087613F-4BE3-494E-9B71-381E6A7D45E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 387 - Caesar cipher", "Challenge 387 - Caesar cipher\Challenge 387 - Caesar cipher.csproj", "{8E3C1C46-7C7E-4247-A7C9-6331C81CA978}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C087613F-4BE3-494E-9B71-381E6A7D45E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C087613F-4BE3-494E-9B71-381E6A7D45E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C087613F-4BE3-494E-9B71-381E6A7D45E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3C1C46-7C7E-4247-A7C9-6331C81CA978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3C1C46-7C7E-4247-A7C9-6331C81CA978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3C1C46-7C7E-4247-A7C9-6331C81CA978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3C1C46-7C7E-4247-A7C9-6331C81CA978}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
