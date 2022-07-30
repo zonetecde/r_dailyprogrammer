@@ -1,7 +1,14 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
-Challenge [387](https://www.reddit.com/r/dailyprogrammer/comments/myx3wn/20210426_challenge_387_easy_caesar_cipher/) - OUTPUT
+Challenge [386](https://www.reddit.com/r/dailyprogrammer/comments/jfcuz5/20201021_challenge_386_intermediate_partition/) - Partition counts - OUTPUT
+
+```diff
+There is 11956824258286445517629485 ways to calculate 666
+There is 193655306161707661080005073394486091998480950338405932486880600467114423441282418165863 ways to calculate 6666
+```
+
+Challenge [387](https://www.reddit.com/r/dailyprogrammer/comments/myx3wn/20210426_challenge_387_easy_caesar_cipher/) - Caesar Cipher - OUTPUT
 
 ```diff
 Warmup :
@@ -30,7 +37,7 @@ Come no further, for death awaits you all with nasty, big, pointy teeth.
 In order to maintain air-speed velocity, a swallow needs to beat its wings forty-three times every second, right?
 ```
 
-Challenge [388](https://www.reddit.com/r/dailyprogrammer/comments/n3var6/20210503_challenge_388_intermediate_next/) - OUTPUT
+Challenge [388](https://www.reddit.com/r/dailyprogrammer/comments/n3var6/20210503_challenge_388_intermediate_next/) - Next palindrome - OUTPUT
 
 ```diff
 808 : 818
@@ -38,7 +45,7 @@ Challenge [388](https://www.reddit.com/r/dailyprogrammer/comments/n3var6/2021050
 2133 : 2222
 ```
 
-Challenge [389](https://www.reddit.com/r/dailyprogrammer/comments/n94io8/20210510_challenge_389_easy_the_monty_hall_problem/) - OUTPUT
+Challenge [389](https://www.reddit.com/r/dailyprogrammer/comments/n94io8/20210510_challenge_389_easy_the_monty_hall_problem/) - The monty hall problem - OUTPUT
 
 ```diff
 Sur 100 000 000 simulations
@@ -52,21 +59,21 @@ Frank  : 50,001306%
 Gina  : 55,556863%
 ```
 
-Challenge [391](https://www.reddit.com/r/dailyprogrammer/comments/njxq95/20210524_challenge_391_easy_the_abacaba_sequence/) - OUTPUT
+Challenge [391](https://www.reddit.com/r/dailyprogrammer/comments/njxq95/20210524_challenge_391_easy_the_abacaba_sequence/) - The abacaba sequence - OUTPUT
 
 ```diff
 Taille : 64M
 https://github.com/zonetecde/r_dailyprogrammer/blob/master/Challenge%20391%20-%20The%20ABACABA%20sequence/output.txt
 ```
 
-Challenge [392](https://www.reddit.com/r/dailyprogrammer/comments/np3sio/20210531_challenge_392_intermediate_pancake_sort/) - RELEASE
+Challenge [392](https://www.reddit.com/r/dailyprogrammer/comments/np3sio/20210531_challenge_392_intermediate_pancake_sort/) - Pancake sort - RELEASE
 
 ```diff
 Lien vers logiciel :
 https://github.com/zonetecde/Le-Crepier-psychorigide
 ```
 
-Challenge [393]( https://www.reddit.com/r/dailyprogrammer/comments/nucsik/20210607_challenge_393_easy_making_change/) - OUTPUT
+Challenge [393]( https://www.reddit.com/r/dailyprogrammer/comments/nucsik/20210607_challenge_393_easy_making_change/) - Making change - OUTPUT
 
 ```diff
 
@@ -78,7 +85,7 @@ Challenge [393]( https://www.reddit.com/r/dailyprogrammer/comments/nucsik/202106
 ```
 
 
-Challenge [395](https://www.reddit.com/r/dailyprogrammer/comments/o4uyzl/20210621_challenge_395_easy_nonogram_row/) - OUTPUT
+Challenge [395](https://www.reddit.com/r/dailyprogrammer/comments/o4uyzl/20210621_challenge_395_easy_nonogram_row/) - Nonogram row - OUTPUT
 
 ```diff
 
@@ -92,7 +99,7 @@ Challenge [395](https://www.reddit.com/r/dailyprogrammer/comments/o4uyzl/2021062
 [1,1,1,1,1,1,1,1]
 ```
 
-Challenge [397](https://www.reddit.com/r/dailyprogrammer/comments/oe9qnb/20210705_challenge_397_easy_roman_numeral/) - OUTPUT
+Challenge [397](https://www.reddit.com/r/dailyprogrammer/comments/oe9qnb/20210705_challenge_397_easy_roman_numeral/) - Roman numeral - OUTPUT
 
 ```diff
 I - I = False
@@ -103,14 +110,14 @@ MDCLXV - MDCLXVI = True
 MM - MDCCCCLXXXXVIIII = False
 ```
 
-Challenge [398](https://www.reddit.com/r/dailyprogrammer/comments/oirb5v/20210712_challenge_398_difficult_matrix_sum/) - OUTPUT
+Challenge [398](https://www.reddit.com/r/dailyprogrammer/comments/oirb5v/20210712_challenge_398_difficult_matrix_sum/) - Matrix sum - OUTPUT
 
 ```diff
 5x5 matrix min sum :
 123456789 + 663035648 + 163882767 + 52838563 + 96549194 = 1099762961
 ```
 
-Challenge [399](https://www.reddit.com/r/dailyprogrammer/comments/onfehl/20210719_challenge_399_easy_letter_value_sum/) - OUTPUT
+Challenge [399](https://www.reddit.com/r/dailyprogrammer/comments/onfehl/20210719_challenge_399_easy_letter_value_sum/) - Letter value sum - OUTPUT
 
 ```diff
 Assign every lowercase letter a value, from 1 for a to 26 for z. Given a string of lowercase letters, find the sum of the values of the letters in the string.
