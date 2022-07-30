@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 391 - The ABACABA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 389 - The Monty Hall problem", "Challenge 389 - The Monty Hall problem\Challenge 389 - The Monty Hall problem.csproj", "{D1FEF370-F108-4C2A-8412-9206DC98DFEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 388 - Next palindrome", "Challenge 388 - Next palindrome\Challenge 388 - Next palindrome.csproj", "{C087613F-4BE3-494E-9B71-381E6A7D45E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D1FEF370-F108-4C2A-8412-9206DC98DFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1FEF370-F108-4C2A-8412-9206DC98DFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1FEF370-F108-4C2A-8412-9206DC98DFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C087613F-4BE3-494E-9B71-381E6A7D45E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C087613F-4BE3-494E-9B71-381E6A7D45E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C087613F-4BE3-494E-9B71-381E6A7D45E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C087613F-4BE3-494E-9B71-381E6A7D45E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

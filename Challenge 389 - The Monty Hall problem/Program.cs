@@ -9,7 +9,7 @@ namespace Challenge_389___The_Monty_Hall_problem
     internal class Program
     {
         public static Random rdn = new Random();
-        private const int NbTry = 100000000;
+        private const int NbTry = 10000;
 
         static void Main(string[] args)
         {

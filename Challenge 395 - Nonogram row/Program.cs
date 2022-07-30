@@ -32,6 +32,7 @@ namespace Challenge_395___Nonogram_row
                             .Where(x => !String.IsNullOrWhiteSpace(x))
                                 .Select(c => c.Length).ToList())
                 + "]";
+
         }
     }
 }
