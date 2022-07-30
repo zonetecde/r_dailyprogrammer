@@ -1,6 +1,36 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [383](https://www.reddit.com/r/dailyprogrammer/comments/ffxabb/20200309_challenge_383_easy_necklace_matching/) - Necklace matching - OUTPUT
+
+```diff
+Challenge
+True
+True
+False
+True
+False
+False
+False
+True
+False
+False
+False
+
+
+Optional Bonus 1
+1
+3
+1
+6
+1
+1
+
+
+Optional Bonus 2
+3 : estop
+```
+
 Challenge [386](https://www.reddit.com/r/dailyprogrammer/comments/jfcuz5/20201021_challenge_386_intermediate_partition/) - Partition counts - OUTPUT
 
 ```diff
