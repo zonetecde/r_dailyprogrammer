@@ -4,6 +4,7 @@ Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailypr
 Challenge [380](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/) - Smooshed Morse Code 1 - OUTPUT
 
 ```diff
+
 ...---...
 -...-...-..-.--
 .--..-.-----..-..-----..-.
@@ -13,7 +14,7 @@ Challenge [380](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/2019080
 
 Optional bonus challenges
 1. -....--....
-2. 17018(bottommost)
+2. -...---------------...- (bottommost)
 3. ---...-..-.-.-.-------..-.-.-....-.-....--...--..----. (overcommercialization)
 4. ..-.-.-..--......--..-.-.-..(intransigence)
 4. { --.---.---.-- , --.---.---.-- , --.---.------ , --.---.---.-- , ---.---.---.- }
