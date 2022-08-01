@@ -1,6 +1,24 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [380](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/) - Smooshed Morse Code 1 - OUTPUT
+
+```diff
+...---...
+-...-...-..-.--
+.--..-.-----..-..-----..-.
+-.....-...
+-.....-...
+
+
+Optional bonus challenges
+1. -....--....
+2. 17018(bottommost)
+3. ---...-..-.-.-.-------..-.-.-....-.-....--...--..----. (overcommercialization)
+4. ..-.-.-..--......--..-.-.-..(intransigence)
+4. { --.---.---.-- , --.---.---.-- , --.---.------ , --.---.---.-- , ---.---.---.- }
+```
+
 Challenge [381](https://www.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/) - Yahtzee Upper Section Scoring - OUTPUT
 
 ```diff
