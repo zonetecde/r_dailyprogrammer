@@ -1,7 +1,7 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
-Challenge 381(https://www.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/) - Yahtzee Upper Section Scoring - OUTPUT
+Challenge [381](https://www.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/) - Yahtzee Upper Section Scoring - OUTPUT
 
 ```diff
 10
