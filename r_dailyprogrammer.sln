@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 383 - Necklace ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 381 - Yahtzee Upper Section Scoring", "Challenge 381 - Yahtzee Upper Section Scoring\Challenge 381 - Yahtzee Upper Section Scoring.csproj", "{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 380 - Smooshed Morse Code 1", "Challenge 380 - Smooshed Morse Code 1\Challenge 380 - Smooshed Morse Code 1.csproj", "{57ECEEB0-4F1C-4C26-AEE3-1376AA545702}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57ECEEB0-4F1C-4C26-AEE3-1376AA545702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ECEEB0-4F1C-4C26-AEE3-1376AA545702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ECEEB0-4F1C-4C26-AEE3-1376AA545702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ECEEB0-4F1C-4C26-AEE3-1376AA545702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
