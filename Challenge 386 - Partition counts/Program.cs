@@ -52,10 +52,25 @@ namespace Challenge_386___Partition_counts
             posOfCalcul.Add(1, true);
             posOfCalcul.Add(2, true);
 
+            int lastKey = 2;
+            bool lastBool = true; 
+            bool lastBool2 = true;
+
             for (int i = 2; i < posOfCalcul_temp.Count; i++)
             {
-                posOfCalcul.Add(posOfCalcul.Select(kvp => kvp.Key).ToList()[i - 1] + posOfCalcul_temp[i - 1],
-                    posOfCalcul.Select(kvp => kvp.Value).ToList()[i - 1] == posOfCalcul.Select(kvp => kvp.Value).ToList()[i - 2] ? !posOfCalcul.Select(kvp => kvp.Value).ToList()[i - 1] : posOfCalcul.Select(kvp => kvp.Value).ToList()[i - 1]);
+                posOfCalcul.Add(
+
+                    lastKey + posOfCalcul_temp[i - 1], lastBool == lastBool2 ? !lastBool : lastBool
+
+                    );
+
+                lastKey += posOfCalcul_temp[i - 1];
+
+                if (lastBool == lastBool2)             
+                    lastBool = !lastBool;                
+                else              
+                    lastBool2 = !lastBool2;
+                
             }
 
 
@@ -70,19 +85,14 @@ namespace Challenge_386___Partition_counts
                 {
                     bool isItPlus;
 
-                    try
-                    {
-                        if(posOfCalcul.TryGetValue(a + 1, out isItPlus))
 
-                            if (isItPlus)
-                                nextInteger += logicalSequence[a];
-                            else 
-                                nextInteger -= logicalSequence[a];
-                    }
-                    catch
-                    {
+                    if(posOfCalcul.TryGetValue(a + 1, out isItPlus))
 
-                    }
+                        if (isItPlus)
+                            nextInteger += logicalSequence[a];
+                        else 
+                            nextInteger -= logicalSequence[a];
+
                 }
                                   
                 logicalSequence.Insert(0, nextInteger);
