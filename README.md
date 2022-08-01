@@ -1,6 +1,18 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge 381(https://www.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/) - Yahtzee Upper Section Scoring - OUTPUT
+
+```diff
+10
+4
+6
+5
+30
+123456
+2144475295 - Execution Time: 12 ms
+```
+
 Challenge [383](https://www.reddit.com/r/dailyprogrammer/comments/ffxabb/20200309_challenge_383_easy_necklace_matching/) - Necklace matching - OUTPUT
 
 ```diff
