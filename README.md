@@ -8,7 +8,7 @@ rnaotmluswycqpxdigzbkhvjef
 skticmrxwbyozlegfqudjvhnap
 dkfwzrovbuhgtxcsiyanmeljqp
 opqckxmabivzsuhenwtrgydjfl , enlfamqiotwuybdxvjrscphkgz , xqwdlsvpjignefhzbrcutmayok , tnacpeixforsbhqkdjuzvglymw , hvjkbfmilwtguoqznpyacsxrde , 
--- [...]
+                                                                    [...]
 cexpqjtgzumwonkdiralvyhsfb , xuzegjfqhrsmpyvnckladtbowi , mgptuiyqravwjexbozslfkdhcn , vnzbslfwdyumkgjotaiqxehcrp , hexowdkvyitsumqbflagczrpnj
 ^ The 1000 last one executed in : 45 ms
 ```
@@ -17,11 +17,11 @@ Challenge [380](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/2019080
 
 ```diff
 
-...---...
--...-...-..-.--
-.--..-.-----..-..-----..-.
--.....-...
--.....-...
+1. ...---...
+2. -...-...-..-.--
+3. .--..-.-----..-..-----..-.
+4. -.....-...
+5. -.....-...
 
 
 Optional bonus challenges
