@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 386 - Partition c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 383 - Necklace matching", "Challenge 383 - Necklace matching\Challenge 383 - Necklace matching.csproj", "{EA355C18-2369-4C32-BBF9-71426206B546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 381 - Yahtzee Upper Section Scoring", "Challenge 381 - Yahtzee Upper Section Scoring\Challenge 381 - Yahtzee Upper Section Scoring.csproj", "{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{EA355C18-2369-4C32-BBF9-71426206B546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA355C18-2369-4C32-BBF9-71426206B546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA355C18-2369-4C32-BBF9-71426206B546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978BBC2B-CCB7-4B37-BCC9-5C50962469A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
