@@ -1,15 +1,27 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [380 #2](https://www.reddit.com/r/dailyprogrammer/comments/cn6gz5/20190807_challenge_380_intermediate_smooshed/) - Smooshed Morse Code 2 - OUTPUT
+
+```diff
+rnaotmluswycqpxdigzbkhvjef
+skticmrxwbyozlegfqudjvhnap
+dkfwzrovbuhgtxcsiyanmeljqp
+opqckxmabivzsuhenwtrgydjfl , enlfamqiotwuybdxvjrscphkgz , xqwdlsvpjignefhzbrcutmayok , tnacpeixforsbhqkdjuzvglymw , hvjkbfmilwtguoqznpyacsxrde , 
+                                                                    [...]
+cexpqjtgzumwonkdiralvyhsfb , xuzegjfqhrsmpyvnckladtbowi , mgptuiyqravwjexbozslfkdhcn , vnzbslfwdyumkgjotaiqxehcrp , hexowdkvyitsumqbflagczrpnj
+^ The 1000 last one executed in : 45 ms
+```
+
 Challenge [380](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/) - Smooshed Morse Code 1 - OUTPUT
 
 ```diff
 
-...---...
--...-...-..-.--
-.--..-.-----..-..-----..-.
--.....-...
--.....-...
+1. ...---...
+2. -...-...-..-.--
+3. .--..-.-----..-..-----..-.
+4. -.....-...
+5. -.....-...
 
 
 Optional bonus challenges
