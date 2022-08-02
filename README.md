@@ -18,7 +18,7 @@ Challenge [379](https://www.reddit.com/r/dailyprogrammer/comments/cdieag/2019071
 25000
 34375
 256250
--1
+ -1
 ```
 
 Challenge [380 #2](https://www.reddit.com/r/dailyprogrammer/comments/cn6gz5/20190807_challenge_380_intermediate_smooshed/) - Smooshed Morse Code 2 - OUTPUT
