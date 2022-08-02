@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 380 - Smooshed Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 380 - Smooshed Morse Code 2", "Challenge 380 - Smooshed Morse Code 2\Challenge 380 - Smooshed Morse Code 2.csproj", "{57FFD3E6-921F-4B5E-8C48-79B07CB42BD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 379 - Progressive taxation", "Challenge 379 - Progressive taxation\Challenge 379 - Progressive taxation.csproj", "{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,14 @@ Global
 		{57FFD3E6-921F-4B5E-8C48-79B07CB42BD9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{57FFD3E6-921F-4B5E-8C48-79B07CB42BD9}.Release|x64.ActiveCfg = Release|Any CPU
 		{57FFD3E6-921F-4B5E-8C48-79B07CB42BD9}.Release|x64.Build.0 = Release|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Debug|x64.Build.0 = Debug|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Release|x64.ActiveCfg = Release|Any CPU
+		{5A0E8478-570B-4AE3-AA2A-127B4B5AF4E2}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
