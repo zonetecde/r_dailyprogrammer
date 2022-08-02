@@ -1,6 +1,26 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+Challenge [379](https://www.reddit.com/r/dailyprogrammer/comments/cdieag/20190715_challenge_379_easy_progressive_taxation/) - Progressive taxation - OUTPUT
+
+```diff
+0
+0
+0,9
+1
+200
+8697,25
+473326,8
+
+
+ Bonus :
+1
+25000
+34375
+256250
+ -1
+```
+
 Challenge [380 #2](https://www.reddit.com/r/dailyprogrammer/comments/cn6gz5/20190807_challenge_380_intermediate_smooshed/) - Smooshed Morse Code 2 - OUTPUT
 
 ```diff
