@@ -78,7 +78,10 @@ Challenge [386](https://www.reddit.com/r/dailyprogrammer/comments/jfcuz5/2020102
 
 ```diff
 There is 11956824258286445517629485 ways to calculate 666
+/\ found in 22ms
+
 There is 193655306161707661080005073394486091998480950338405932486880600467114423441282418165863 ways to calculate 6666
+/\ found in 783ms
 ```
 
 Challenge [387](https://www.reddit.com/r/dailyprogrammer/comments/myx3wn/20210426_challenge_387_easy_caesar_cipher/) - Caesar Cipher - OUTPUT
