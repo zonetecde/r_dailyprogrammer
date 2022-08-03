@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 379 - Progressive
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 378 - The Havel-Hakimi algorithm for graph realization", "Challenge 378 - The Havel-Hakimi algorithm for graph realization\Challenge 378 - The Havel-Hakimi algorithm for graph realization.csproj", "{8509F6B6-E267-47D1-9D5C-F4952E955DE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 376 - The Revised Julian Calendar", "Challenge 376 - The Revised Julian Calendar\Challenge 376 - The Revised Julian Calendar.csproj", "{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,14 @@ Global
 		{8509F6B6-E267-47D1-9D5C-F4952E955DE2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8509F6B6-E267-47D1-9D5C-F4952E955DE2}.Release|x64.ActiveCfg = Release|Any CPU
 		{8509F6B6-E267-47D1-9D5C-F4952E955DE2}.Release|x64.Build.0 = Release|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Debug|x64.Build.0 = Debug|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Release|x64.ActiveCfg = Release|Any CPU
+		{6CD0DFF3-35E5-4B7E-93E3-F4E540DBBD9C}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
