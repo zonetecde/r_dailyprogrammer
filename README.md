@@ -1,7 +1,39 @@
 # r_dailyprogrammer
 Les challenges du subreddit [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
+
+Challenge [376](https://www.reddit.com/r/dailyprogrammer/comments/b0nuoh/20190313_challenge_376_intermediate_the_revised/) - The Revised Julian Calendar - OUTPUT
+
+```diff
+1
+0
+0
+1
+0
+1077
+1881475
+288412747246240
+```
+
+Challenge [378](https://www.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/) - The Havel-Hakimi algorithm for graph realization - OUTPUT
+
+```diff
+False
+False
+True
+True
+True
+False
+False
+False
+False
+True
+False
+True
+```
+
 Challenge [379](https://www.reddit.com/r/dailyprogrammer/comments/cdieag/20190715_challenge_379_easy_progressive_taxation/) - Progressive taxation - OUTPUT
+
 
 ```diff
 0
